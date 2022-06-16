@@ -1,4 +1,4 @@
-# ODSC Europe 2022 Advanced NLP Workshop 
+# ODSC Europe 2022 Advanced NLP Workshop - 100% Hands-on, No Powerpoints! 
 ![](https://i.imgur.com/z4jLlPC.png)
 
 # Advanced NLP: Deep Learning and Transfer Learning for Natural Language Processing
